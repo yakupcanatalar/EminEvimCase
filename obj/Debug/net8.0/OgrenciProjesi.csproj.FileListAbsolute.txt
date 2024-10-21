@@ -1,0 +1,14 @@
+C:\Users\atala\OneDrive\Masaüstü\EETask\OgrenciProjesi\bin\Debug\net8.0\OgrenciProjesi.exe
+C:\Users\atala\OneDrive\Masaüstü\EETask\OgrenciProjesi\bin\Debug\net8.0\OgrenciProjesi.deps.json
+C:\Users\atala\OneDrive\Masaüstü\EETask\OgrenciProjesi\bin\Debug\net8.0\OgrenciProjesi.runtimeconfig.json
+C:\Users\atala\OneDrive\Masaüstü\EETask\OgrenciProjesi\bin\Debug\net8.0\OgrenciProjesi.dll
+C:\Users\atala\OneDrive\Masaüstü\EETask\OgrenciProjesi\bin\Debug\net8.0\OgrenciProjesi.pdb
+C:\Users\atala\OneDrive\Masaüstü\EETask\OgrenciProjesi\obj\Debug\net8.0\OgrenciProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atala\OneDrive\Masaüstü\EETask\OgrenciProjesi\obj\Debug\net8.0\OgrenciProjesi.AssemblyInfoInputs.cache
+C:\Users\atala\OneDrive\Masaüstü\EETask\OgrenciProjesi\obj\Debug\net8.0\OgrenciProjesi.AssemblyInfo.cs
+C:\Users\atala\OneDrive\Masaüstü\EETask\OgrenciProjesi\obj\Debug\net8.0\OgrenciProjesi.csproj.CoreCompileInputs.cache
+C:\Users\atala\OneDrive\Masaüstü\EETask\OgrenciProjesi\obj\Debug\net8.0\OgrenciProjesi.dll
+C:\Users\atala\OneDrive\Masaüstü\EETask\OgrenciProjesi\obj\Debug\net8.0\refint\OgrenciProjesi.dll
+C:\Users\atala\OneDrive\Masaüstü\EETask\OgrenciProjesi\obj\Debug\net8.0\OgrenciProjesi.pdb
+C:\Users\atala\OneDrive\Masaüstü\EETask\OgrenciProjesi\obj\Debug\net8.0\OgrenciProjesi.genruntimeconfig.cache
+C:\Users\atala\OneDrive\Masaüstü\EETask\OgrenciProjesi\obj\Debug\net8.0\ref\OgrenciProjesi.dll

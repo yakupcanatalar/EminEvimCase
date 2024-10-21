@@ -1,0 +1,14 @@
+C:\Users\atala\OneDrive\Masaüstü\EETask\StudentProject\bin\Debug\net8.0\StudentProject.exe
+C:\Users\atala\OneDrive\Masaüstü\EETask\StudentProject\bin\Debug\net8.0\StudentProject.deps.json
+C:\Users\atala\OneDrive\Masaüstü\EETask\StudentProject\bin\Debug\net8.0\StudentProject.runtimeconfig.json
+C:\Users\atala\OneDrive\Masaüstü\EETask\StudentProject\bin\Debug\net8.0\StudentProject.dll
+C:\Users\atala\OneDrive\Masaüstü\EETask\StudentProject\bin\Debug\net8.0\StudentProject.pdb
+C:\Users\atala\OneDrive\Masaüstü\EETask\StudentProject\obj\Debug\net8.0\StudentProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atala\OneDrive\Masaüstü\EETask\StudentProject\obj\Debug\net8.0\StudentProject.AssemblyInfoInputs.cache
+C:\Users\atala\OneDrive\Masaüstü\EETask\StudentProject\obj\Debug\net8.0\StudentProject.AssemblyInfo.cs
+C:\Users\atala\OneDrive\Masaüstü\EETask\StudentProject\obj\Debug\net8.0\StudentProject.csproj.CoreCompileInputs.cache
+C:\Users\atala\OneDrive\Masaüstü\EETask\StudentProject\obj\Debug\net8.0\StudentProject.dll
+C:\Users\atala\OneDrive\Masaüstü\EETask\StudentProject\obj\Debug\net8.0\refint\StudentProject.dll
+C:\Users\atala\OneDrive\Masaüstü\EETask\StudentProject\obj\Debug\net8.0\StudentProject.pdb
+C:\Users\atala\OneDrive\Masaüstü\EETask\StudentProject\obj\Debug\net8.0\StudentProject.genruntimeconfig.cache
+C:\Users\atala\OneDrive\Masaüstü\EETask\StudentProject\obj\Debug\net8.0\ref\StudentProject.dll
